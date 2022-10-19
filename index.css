@@ -1,13 +1,24 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 /*Roboto regular*/
 
 body {
+ margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+/*reset default style*/
 font-family: 'Roboto', sans-serif;
-
 }
 
+.alltext {
+text-align: center;
+}
 
 .img1 {
     width: 50%;
-    min-width: 700px
+    min-width: 700px;
+    margin: auto;
+    display: block;
 }

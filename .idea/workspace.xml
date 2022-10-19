@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47f9def9-b913-4095-a488-11b544b7d2eb" name="Changes" comment="чисто протестить">
+    <list default="true" id="47f9def9-b913-4095-a488-11b544b7d2eb" name="Changes" comment="icon.png &gt; favicon.png&#10;start.jpg &gt; img1.jpg">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/start.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/img1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666162391702</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="icon.png &gt; favicon.png&#10;start.jpg &gt; img1.jpg">
+      <created>1666163214327</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666163214327</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +94,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="я почти низуя не сделал" />
     <MESSAGE value="чисто протестить" />
-    <option name="LAST_COMMIT_MESSAGE" value="чисто протестить" />
+    <MESSAGE value="icon.png &gt; favicon.png&#10;start.jpg &gt; img1.jpg" />
+    <option name="LAST_COMMIT_MESSAGE" value="icon.png &gt; favicon.png&#10;start.jpg &gt; img1.jpg" />
   </component>
 </project>
