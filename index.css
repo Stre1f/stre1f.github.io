@@ -1,23 +1,26 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 /*Roboto regular*/
 
-body {
-margin: 0;
-padding: 0;
-border: 0;
-font-size: 100%;
-font: inherit;
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
 /*reset default style*/
-    font-family: 'Roboto', sans-serif;
+}
+
+body {
+  font-size: 100%;
+  font: inherit;
+  font-family: 'Roboto', sans-serif;
 }
 
 .alltext {
-text-align: center;
+    text-align: center;
 }
 
 .img1 {
     width: 50%;
-    min-width: 700px;
+    max-width: 600px;
     margin: auto;
     display: block;
 }
