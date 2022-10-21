@@ -1,3 +1,19 @@
+@import Favicon from "../components/favicon";
+
+export default function DefaultLayout({
+  children,
+  faviconEmoji = "👋",
+}) {
+  return (
+    <div>
+      <Favicon emoji={faviconEmoji} />
+      <main>{children}</main>
+    </div>
+  );
+}
+
+
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 /*Roboto regular*/
 
