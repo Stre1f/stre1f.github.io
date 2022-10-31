@@ -1,2 +1,2 @@
-<H1>Test website</H1>
+*Test website*
 This is just my test website
