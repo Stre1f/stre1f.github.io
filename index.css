@@ -1,6 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-/*Roboto regular*/
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+/*Roboto Mono regular*/
 * {
   margin: 0;
   padding: 0;
@@ -10,18 +9,15 @@
 
 body {
   font-size: 100%;
-  font: inherit;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  background-color: #1a1b21;
+  color: #f0f0f0;
 }
 
-.alltext {
-    text-align: center;
-}
-
-.img1 {
-    width: 50%;
-    max-width: 600px;
-    margin: auto;
-    display: block;
-}
-
+#nothing {
+  position: absolute;
+  text-align: center;
+  left: 50%;
+  top: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) }
